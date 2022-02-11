@@ -1,0 +1,7 @@
+﻿  utils.cpp
+F:\yonatan\coding projects\2020\motionDetection\motionDetection\utils.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\yonatan\coding projects\2020\motionDetection\motionDetection\utils.cpp(77,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\yonatan\coding projects\2020\motionDetection\motionDetection\utils.cpp(167,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\yonatan\coding projects\2020\motionDetection\motionDetection\utils.cpp(240,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\yonatan\coding projects\2020\motionDetection\motionDetection\utils.cpp(241,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  motionDetection.vcxproj -> F:\yonatan\coding projects\2020\motionDetection\Debug\motionDetection.exe
